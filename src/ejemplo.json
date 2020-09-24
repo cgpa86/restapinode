@@ -1,0 +1,18 @@
+[
+	{
+	"id":"1",
+	"titulo" : "Miles in the Sky",
+	"artista" : "Miles Davis",
+	"año" : "1968",
+	"genero" :"jazz"
+},
+{
+
+	"id":"2",
+	"titulo" : "Loveless",
+	"artista" : "My Bloody Valentine",
+	"año" : "1989",
+	"genero" :"Alternativo"
+
+}
+]
